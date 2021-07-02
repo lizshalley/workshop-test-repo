@@ -1,2 +1,4 @@
 # workshop-test-repo
-My test repository for the Reproducible Research workshop.
+Demo repo for writing github directions
+
+I will be adding more here as I learn new features.
